@@ -1,0 +1,6 @@
+rds_record_name   = "db.aurouz-prod-net.local"
+redis_record_name = "redis.aurouz-prod-net.local"
+environment       = "prod"
+created_by        = "Ravi Teja Nimma"
+region            = "eu-north-1"
+aws_account_id    = "446403718653"
